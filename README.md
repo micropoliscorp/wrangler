@@ -72,10 +72,12 @@ via .deb file:
 
 ## AUTHOR
 
-Clipland GmbH, [clipland.com](http://www.clipland.com/)
+Clipland for  
+Micropolis GmbH, [micropolis.com](http://www.micropolis.com/)
 
 ## COPYRIGHT
 
+Copyright 2024 Micropolis GmbH. All rights reserved.  
 Copyright 2009-2015 Clipland GmbH. All rights reserved.
 
 ## LICENSE
