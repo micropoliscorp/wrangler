@@ -73,7 +73,7 @@ via .deb file:
 ## AUTHOR
 
 Clipland for  
-Micropolis GmbH, [micropolis.com](http://www.micropolis.com/)
+Micropolis GmbH, [micropolis.com](https://www.micropolis.com/)
 
 ## COPYRIGHT
 
